@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dheeraj Kumar <img src="https://komarev.com/ghpvc/?username=Dheerajkuku&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajkuku" />
+# 👋 Hi, I'm Dheeraj Kumar <img src="https://komarev.com/ghpvc/?username=Dheerajkumar-devlab&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajkuku" />
 💼 **Software Engineer | AI & ML Developer | Railway Automation Specialist**
 
 I’m passionate about combining **Artificial Intelligence** and **Software Engineering** to build intelligent, reliable, and safe systems — especially in **Railway Signaling and Automation** domains like **KAVACH (TCAS)**, **CBTC**, and **CTC**.  
@@ -38,24 +38,24 @@ Railway Signaling (KAVACH, CBTC, CTC, ETCS), Embedded Systems, AI/ML, NLP, Agent
 
 ### 🚆 Projects
 
-#### 🔹 [GSV Academic Assistant](https://github.com/Dheerajkuku/GSV_Academic-Assistant)
+#### 🔹 [GSV Academic Assistant](https://github.com/Dheerajkumar-devlab/GSV_Academic-Assistant)
 An AI chatbot using **LangChain** and **LLMs** to provide university-related information.  
 - Built with **Python**, **Streamlit**, and **FAISS** for RAG-based question answering.  
 - Integrates contextual memory and custom database training.  
 
-#### 🔹 [Patient Readmission Analysis](https://github.com/Dheerajkuku/Patient_Readmission_Analysis)
+#### 🔹 [Patient Readmission Analysis](https://github.com/Dheerajkumar-devlab/Patient_Readmission_Analysis)
 Predictive model to estimate hospital readmission probabilities.  
 - Applied **EDA**, **feature engineering**, and **classification models** using Scikit-learn.  
 
-#### 🔹 [HR Analytics](https://github.com/Dheerajkuku/HR_Analytics)
+#### 🔹 [HR Analytics](https://github.com/Dheerajkumar-devlab/HR_Analytics)
 End-to-end HR data analytics dashboard to identify attrition risks and performance trends.  
 - Used **Pandas**, **Matplotlib**, and **Dash/Streamlit** for insights visualization.  
 
-#### 🔹 [AI Voice Emotion & Mood Analyzer (Work in Progress)](https://github.com/Dheerajkuku)
+#### 🔹 [AI Voice Emotion & Mood Analyzer (Work in Progress)](https://github.com/Dheerajkumar-devlab)
 - Uses **Whisper**, **BERT-Go-Emotion**, and **Groq API** for speech emotion detection and mood-based suggestions.  
 - Future integration with **personalized AI wellness systems** for focus and motivation tracking.  
 
-#### 🔹 [Railway Signaling Knowledgebase (Planned)](https://github.com/Dheerajkuku)
+#### 🔹 [Railway Signaling Knowledgebase (Planned)](https://github.com/Dheerajkumar-devlab)
 An AI-powered RAG system that answers queries related to **KAVACH**, **CTC**, **CBTC**, and **ETCS** documentation.  
 
 ---
@@ -71,19 +71,19 @@ An AI-powered RAG system that answers queries related to **KAVACH**, **CTC**, **
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Dheerajkuku&show_icons=true&theme=radical" alt="Dheeraj's GitHub stats" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Dheerajkuku&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Dheerajkumar-devlab&show_icons=true&theme=radical" alt="Dheeraj's GitHub stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Dheerajkumar-devlab&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheerajkuku&theme=radical" alt="Dheeraj's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheerajkumar-devlab&theme=radical" alt="Dheeraj's GitHub streak" />
 </div>
 
 ---
 
 ### 🌐 Connect With Me
-- [💼 LinkedIn](https://www.linkedin.com/in/dheerajkuku)  
-- [📧 Email](mailto:dheeraj@example.com)  
-- [📁 Portfolio (Coming Soon)](https://github.com/Dheerajkuku)
+- [💼 LinkedIn](https://www.linkedin.com/in/dheeraj-kumar-16b4a0226/)
+- [📧 Email](mailto:dheerajchayal255@gmail.com)
+- [📁 Portfolio (Coming Soon)](https://github.com/Dheerajkumar-devlab)
 
 ⚡ *Bridging AI and Rail Technology to build safer, smarter transportation systems.*
