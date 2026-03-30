@@ -71,8 +71,8 @@ An AI-powered RAG system that answers queries related to **KAVACH**, **CTC**, **
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dheerajkuku&show_icons=true&theme=radical" alt="Dheeraj's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheerajkuku&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Dheerajkuku&show_icons=true&theme=radical" alt="Dheeraj's GitHub stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Dheerajkuku&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 <br>
 <div align="center">
